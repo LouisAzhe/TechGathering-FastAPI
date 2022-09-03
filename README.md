@@ -2,7 +2,8 @@
 ## 主題 : FastAPI(使用API串接現有服務)
 
 ※今日分享之相關網站參考-->FastAPI相關介紹.txt  
-※相關環境設定請參考requirements.txt，Python版本3.9
+
+※相關環境設定請參考requirements.txt，Python版本3.9  
 
 ※FastAPI使用注意事項  
 1.安裝FastAPI和Uvicorn 使用前先安裝這兩個套件  
