@@ -1,6 +1,8 @@
 # 技術小聚-實習生版
 ## 主題 : FastAPI(使用API串接現有服務)
 
+※今日分享之相關網站參考-->FastAPI相關介紹.txt  
+
 ※FastAPI使用注意事項  
 1.安裝FastAPI和Uvicorn 使用前先安裝這兩個套件  
 2.python version >= 3.6 FastAPI支援python3.6以上版本  
