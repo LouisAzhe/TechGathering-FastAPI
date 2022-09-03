@@ -1,0 +1,20 @@
+●FastAPI 框架介紹｜Django、Flask、FastAPI 完整比較
+https://www.youtube.com/watch?v=by8oHyMWzdc&ab_channel=HiSKIO
+
+●Official FastAPI Tutorial
+https://fastapi.tiangolo.com/zh/tutorial/
+
+●About Overload
+https://zhuanlan.zhihu.com/p/489767633
+
+●python自動生成requirements.txt
+https://blog.csdn.net/Irving_zhang/article/details/79087569
+
+●RESTful API與MVC名詞介紹
+https://ithelp.ithome.com.tw/articles/10191925
+
+●並發和異步/等待 fastapi
+https://fastapi.tiangolo.com/async/
+
+●PostMan(測試API網站)
+https://www.postman.com/
