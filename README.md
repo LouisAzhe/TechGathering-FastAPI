@@ -8,4 +8,4 @@
 4.http://127.0.0.1:8000/docs 可以查看API文件 8000為預設  
 ▼下面這段可直接寫在程式裡面取代上面的3跟4▼  
 if __name__ == '__main__':  
-    uvicorn.run(app="app:app", host="0.0.0.0", port=8000, reload=True, debug=True)  
+&emsp;&emsp;uvicorn.run(app="app:app", host="0.0.0.0", port=8000, reload=True, debug=True)  
